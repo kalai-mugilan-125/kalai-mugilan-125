@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalai-Mugilan-1223&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kalai-Mugilan-1223?style=for-the-badge&color=00d4ff" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=kalai-mugilan-125&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kalai-mugilan-125?style=for-the-badge&color=00d4ff" alt="Followers" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Kalai-Mugilan-1223/Kalai-Mugilan-1223/blob/main/assets/developer.gif" width="400" alt="Developer Animation" />
+  <img src="https://github.com/kalai-mugilan-125/kalai-mugilan-125/blob/main/assets/developer.gif" width="400" alt="Developer Animation" />
 </div>
 
 ## <div align="center">🚀 About Me</div>
@@ -59,22 +59,22 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalai-Mugilan-1223&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-Mugilan-1223&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalai-mugilan-125&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalai-mugilan-125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalai-Mugilan-1223&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalai-mugilan-125&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalai-Mugilan-1223&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalai-mugilan-125&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## <div align="center">🏆 GitHub Trophies</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalai-Mugilan-1223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kalai-mugilan-125&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ## <div align="center">💼 Featured Projects</div>
@@ -85,8 +85,8 @@
       <td width="50%">
         <h3 align="center">🔍 Facial Recognition System</h3>
         <div align="center">
-          <a href="https://github.com/Kalai-Mugilan-1223/OpenCV" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=OpenCV&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <a href="https://github.com/kalai-mugilan-125/OpenCV" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalai-mugilan-125&repo=OpenCV&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <p><strong>OpenCV • Python • Haar Cascade</strong></p>
           <p>Advanced facial recognition with real-time detection capabilities</p>
@@ -95,8 +95,8 @@
       <td width="50%">
         <h3 align="center">🤖 QnA Based Chatbot</h3>
         <div align="center">
-          <a href="https://github.com/Kalai-Mugilan-1223/QnA-chatbot-ML" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=QnA-chatbot-ML&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <a href="https://github.com/kalai-mugilan-125/QnA-chatbot-ML" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalai-mugilan-125&repo=QnA-chatbot-ML&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <p><strong>NLP • Python • Machine Learning</strong></p>
           <p>This project implements an interactive Question and Answer chatbot using Python, Flask, and a simple frontend. It leverages NLP and machine learning models to generate responses based on user queries. </p>
@@ -107,8 +107,8 @@
       <td width="50%">
         <h3 align="center">💬 Sentimental Analysis Bot</h3>
         <div align="center">
-          <a href="https://github.com/Kalai-Mugilan-1223/Sentimental-analysis-chat-bot" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=Sentimental-analysis-chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <a href="https://github.com/kalai-mugilan-125/Sentimental-analysis-chat-bot" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalai-mugilan-125&repo=Sentimental-analysis-chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <p><strong>VADER • Random Forest • NLP</strong></p>
           <p>Sentiment analysis chatbot with emotion detection capabilities</p>
@@ -117,8 +117,8 @@
       <td width="50%">
         <h3 align="center">🌾 Farm Zone Platform</h3>
         <div align="center">
-          <a href="https://github.com/Kalai-Mugilan-1223/Farm-Zone-Project" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=Farm-Zone-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+          <a href="https://github.com/kalai-mugilan-125/Farm-Zone-Project" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalai-mugilan-125&repo=Farm-Zone-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <p><strong>HTML • CSS • JavaScript • OpenAPI</strong></p>
           <p>Agricultural e-commerce platform with weather integration</p>
@@ -131,7 +131,7 @@
 ## <div align="center">📈 Contribution Graph</div>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kalai-Mugilan-1223&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kalai-mugilan-125&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ## <div align="center">🌟 Skills & Expertise</div>
@@ -192,7 +192,7 @@
   <a href="mailto:kalaimugilanrp.12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Kalai-Mugilan-1223" target="_blank">
+  <a href="https://github.com/kalai-mugilan-125" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
