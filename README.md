@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>🔭 Currently Working On</td>
-      <td><b>Real-time Phishing Detection & Custom Pose Detection Model</b></td>
+      <td><b> Custom Pose Detection Model</b></td>
     </tr>
     <tr>
       <td>🌱 Learning</td>
@@ -178,7 +178,9 @@
 ## <div align="center">💡 Philosophy</div>
 
 <div align="center">
-  <p>"Create with mind, code with precision."</p>
+  <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Create%20with%20mind.%20Code%20with%20Precision.%20Learn%20relentlessly." />
+</div>
 </div>
 
 ## <div align="center">🤝 Let's Connect</div>
