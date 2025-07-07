@@ -1,63 +1,50 @@
-<h1 align="center">Hi 👋, I'm Kalai Mugilan</h1>
-<h3 align="center">Engineer | Creator | AI Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Kalai+Mugilan;AI+Engineer+%7C+Developer+%7C+Visionary+Builder;Crafting+intelligent+tools+for+people" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kalai-Mugilan-1223&label=Profile%20views&color=0e75b6&style=flat" alt="Kalai-Mugilan-1223" />
 </p>
 
-- 🌱 I’m currently diving deep into **Computer Vision**, **Custom Chatbots**, and **Data-Driven ML Pipelines**
-- 📫 Reach me at **mugilankalai.123@gmail.com**
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/kalai-mugilan-r-p)
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+<p align="center">
+  Currently working on: <b>Custom Pose Detection + Real-time Phishing Detection AI</b><br>
+  Contact me: <a href="mailto:mugilankalai.123@gmail.com">mugilankalai.123@gmail.com</a><br>
+  Connect: <a href="https://linkedin.com/in/kalai-mugilan-r-p">LinkedIn</a>
 </p>
 
----
+<hr>
 
-### 📊 GitHub Stats:
+<h2 align="center">Languages and Tools</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalai-Mugilan-1223&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv,flask,html,css,js,ts,nodejs,react,git,github,vscode&perline=7" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalai-Mugilan-1223&show_icons=true&locale=en" alt="GitHub Stats" />
+<hr>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalai-Mugilan-1223&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalai-Mugilan-1223&layout=compact&theme=radical" />
 </p>
 
----
+<hr>
 
-### 🚀 Notable Projects
+<h2 align="center">Featured Projects</h2>
 
-- 🧠 **[Computer Vision Mini Projects](https://github.com/Kalai-Mugilan-1223/OpenCV)**  
-  Python + OpenCV applied across real-world tasks
+<p align="center">
+  <b><a href="https://github.com/Kalai-Mugilan-1223/OpenCV">Computer Vision Projects</a></b><br>
+  <a href="https://github.com/Kalai-Mugilan-1223/QnA-chatbot-ML">QnA Chatbot with Transformers</a><br>
+  <a href="https://github.com/Kalai-Mugilan-1223/Sentimental-analysis-chat-bot">Emotion Chatbot using VADER & RF</a><br>
+  <a href="https://github.com/Kalai-Mugilan-1223/Farm-Zone-Project">Farm-Zone eCommerce App</a><br>
+  <a href="https://github.com/Kalai-Mugilan-1223/Basic-Work-On-Data-Set-MAANG-company-Data-set-">MAANG Data Insights</a>
+</p>
 
-- 🧾 **[QnA Chatbot](https://github.com/Kalai-Mugilan-1223/QnA-chatbot-ML)**  
-  TF-IDF, Hugging Face Transformers, Flask
+<hr>
 
-- 💬 **[Sentiment Analysis Chatbot](https://github.com/Kalai-Mugilan-1223/Sentimental-analysis-chat-bot)**  
-  Emotion classification with ML models and NLTK
+<h2 align="center">Quote I Live By</h2>
 
-- 🌾 **[Farm Zone](https://github.com/Kalai-Mugilan-1223/Farm-Zone-Project)**  
-  A front-end e-commerce solution tailored for farmers
-
-- 📊 **[MAANG Dataset Exploration](https://github.com/Kalai-Mugilan-1223/Basic-Work-On-Data-Set-MAANG-company-Data-set-)**  
-  Business & visual insights from FAANG companies
-
----
-
-### 📌 Quote that Drives Me:
-> "Code with intention. Build with empathy. Learn relentlessly."
-
+<p align="center">
+  <i>"Code with intention. Build with empathy. Learn relentlessly."</i>
+</p>
