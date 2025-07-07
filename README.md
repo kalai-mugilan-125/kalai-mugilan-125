@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kalai+Mugilan;AI+Engineer+%7C+ML+Developer;Crafting+Intelligent+Solutions;Building+the+Future+with+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&lines=Hi%2C+I'm+Kalai+Mugilan;AI+Engineer+%7C+ML+Developer;Crafting+Intelligent+Solutions;Building+the+Future+with+Code" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td>💼 Experience</td>
-      <td><b>TEAL (Titan Engineering)</b> - Industrial Automation & NLP Intern</td>
+      <td><b>TEAL (Titan Engineering)</b> - Developer Intern</td>
     </tr>
   </table>
 </div>
@@ -49,11 +49,11 @@
 ## <div align="center">🛠️ Tech Stack</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,r,opencv,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,opencv&perline=7" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,photoshop&perline=7" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,bash,firebase,vercel&perline=5" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,git,github&perline=5" />
 </div>
 
 ## <div align="center">📊 GitHub Analytics</div>
@@ -93,19 +93,19 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 Sentiment Analysis Chatbot</h3>
+        <h3 align="center">🤖 QnA Based Chatbot</h3>
         <div align="center">
           <a href="https://github.com/Kalai-Mugilan-1223/QnA-chatbot-ML" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=QnA-chatbot-ML&theme=tokyonight&hide_border=true&bg_color=0D1117" />
           </a>
           <p><strong>NLP • Python • Machine Learning</strong></p>
-          <p>Real-time sentiment analysis with adaptive emotional responses</p>
+          <p>This project implements an interactive Question and Answer chatbot using Python, Flask, and a simple frontend. It leverages NLP and machine learning models to generate responses based on user queries. </p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">💬 Emotion Analysis Bot</h3>
+        <h3 align="center">💬 Sentimental Analysis Bot</h3>
         <div align="center">
           <a href="https://github.com/Kalai-Mugilan-1223/Sentimental-analysis-chat-bot" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalai-Mugilan-1223&repo=Sentimental-analysis-chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -140,7 +140,7 @@
   <table>
     <tr>
       <td><b>💻 Programming</b></td>
-      <td>Python, C++, Java (Basic), C (Basic), R Programming, JavaScript (Basic)</td>
+      <td>Python, C++, Java (Basic), C (Basic), JavaScript (Basic)</td>
     </tr>
     <tr>
       <td><b>🧠 AI/ML & Data Science</b></td>
@@ -178,7 +178,7 @@
 ## <div align="center">💡 Philosophy</div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20with%20intention.%20Build%20with%20empathy.%20Learn%20relentlessly." />
+  <p>"Create with mind, code with precision."</p>
 </div>
 
 ## <div align="center">🤝 Let's Connect</div>
